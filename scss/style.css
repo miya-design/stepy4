@@ -103,7 +103,7 @@ img {
 
 .header .nav-btn span {
   position: absolute;
-  width: 100%;
+  width: 70%;
   height: 3px;
   background-color: #000;
   display: block;
